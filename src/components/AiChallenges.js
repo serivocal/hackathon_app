@@ -12,42 +12,42 @@ const AiChallenges = () => {
   const ChallengesData = [
     {
       icon: Icon4,
-      title: "Prove Your Skills",
+      title: "Prove your skills",
       descrition:
-        "Gain substantial experience by solving real-world problrms and pit against others to come up with innovative solutions",
+        "Gain substantial experience by solving real-world problems and pit against others to come up with innovative solutions.",
     },
     {
       icon: Vector,
       title: "Learn from community",
       descrition:
-        "One can look and analyze the solutions submitted by the other Data Scientists int tha community and learn from them",
+        "One can look and analyze the solutions submitted by the other Data Scientists in the community and learn from them.",
     },
     {
       icon: Robot,
       title: "Challenge yourself",
       descrition:
-        "There is nothing for you to lose by participating in a challenge. You can fail safe,learn out of the entire experience and bounce back harder.",
+        "There is nothing for you to lose by participating in a challenge. You can fail safe, learn out of the entire experience and bounce back harder.",
     },
     {
       icon: Icon1,
       title: "Earn recognition",
       descrition:
-        "You will stand out from the crowd if you do well in AI challenfes, it only helps you shine in the community but also earns rewards",
+        "You will stand out from the crowd if you do well in AI challenges, it not only helps you shine in the community but also earns rewards.",
     },
   ];
   return (
     <>
       <div
         style={{
-          width: "1439px",
+          width: "1440px",
           height: "902px",
           backgroundColor: " #FFFFFF",
         }}
       >
         <Container className="d-flex justify-content-center">
           <div className="d-flex mt-5">
-            <div className="h1 fw-bold">Why Participate in </div>
-            <div className="h1 fw-bolder text-success ms-2"> Ai Challenges ?</div>
+            <div className="h1 fw-bold">Why Participate in  </div>
+            <div className="h1 fw-bolder text-success ms-2"> AI Challenges ?</div>
           </div>
         </Container>
         <Container className="d-flex">

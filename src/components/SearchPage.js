@@ -32,12 +32,12 @@ const SearchPage = () => {
                 id="dropdown-button-dark-example2"
                 variant="light"
                 menuVariant="light"
-                title="filters"
+                title="Filters"
                 className=""
               >
                 <Dropdown.Item href="#/action-2">
                   <p className="disable bg-secondary rounded text-center">
-                    Status
+                  Status
                   </p>
                   <Dropdown.Divider />
                   <Form.Check aria-label="option 1" label="All" />
@@ -48,7 +48,7 @@ const SearchPage = () => {
                 <Dropdown.Divider />
                 <Dropdown.Item href="#/action-2">
                   <p className="disable bg-secondary rounded text-center">
-                    Level
+                  Level
                   </p>
                   <Dropdown.Divider />
                   <Form.Check aria-label="option 1" label="Easy" />
@@ -61,13 +61,13 @@ const SearchPage = () => {
           <div className="w-50 justify-content-center mt-5 ms-5">
           <div className="ms-5 ">
             <Button variant="secondary" className="ms-5">
-              Upcoming <AiFillCloseCircle/>
+            Upcoming <AiFillCloseCircle/>
             </Button>
             <Button variant="secondary" className="ms-4">
-              Post<AiFillCloseCircle/>
+            Past<AiFillCloseCircle/>
             </Button>
             <Button variant="secondary" className="ms-4 ">
-              Easy <AiFillCloseCircle/>
+            Easy <AiFillCloseCircle/>
             </Button>
             </div>
           </div>

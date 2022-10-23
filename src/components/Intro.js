@@ -19,15 +19,15 @@ const Intro = () => {
           <Col className="mt-5">
             <div className="mt-5 display-1">
               <h1 className="display-5 fw-bolder">
-                Accelerate Innovation with Global AI Challenges{" "}
+              Accelerate Innovation with Global AI Challenges{" "}
               </h1>
             </div>
             <div className="mt-5">
               <p className="h6">
-                AI challenges at Sphi simulate real-world problems. It is a
-                great place to put Your AI/Data Science skills to test on
-                diverse datasets allowing you to foster learning through
-                competitions.
+              AI Challenges at DPhi simulate real-world problems. It is a 
+              great place to put your AI/Data Science skills to test on 
+              diverse datasets allowing you to foster learning through 
+              competitions.
               </p>
             </div>
             <Link to="/challengedetails" >

@@ -23,8 +23,8 @@ const HomeIntro = () => {
                 <img src={Ai} alt="Imgs" />
               </div>
               <div className="ms-2">
-                <p className="h2">100k+</p>
-                <p className="h6">AI Model submissions</p>
+                <p className="h2">100K+</p>
+                <p className="h6">AI model submissions</p>
               </div>
               <div
                 className="ms-5 mt-3"
@@ -44,7 +44,7 @@ const HomeIntro = () => {
                 <img src={Contact} alt="Imgs" />
               </div>
               <div className="ms-2">
-                <p className="h2">50k+</p>
+                <p className="h2">50K+</p>
                 <p className="h6">Data Scientists</p>
               </div>
               <div
@@ -66,8 +66,8 @@ const HomeIntro = () => {
                 <img src={Challenge} alt="Imgs" />
               </div>
               <div className="ms-2">
-                <p className="h2">100+ +</p>
-                <p className="h6">AI Challenges Posted</p>
+                <p className="h2">100+</p>
+                <p className="h6">AI Challenges hosted</p>
               </div>
             </div>
           </Col>

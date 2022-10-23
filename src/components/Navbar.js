@@ -7,7 +7,7 @@ function NavbarLayout() {
     <>
       <Navbar style={{
         position : "absolute",
-        width : "1400px",
+        width : "1440px",
         height : "64px",
         background:"#fff"
       }}>

@@ -16,10 +16,10 @@ import {FaCheckCircle} from "react-icons/fa"
 function ReactCards() {
   const ReactCardData = [
     {
-      title: "DataScience Bootcamp-Graded Gratethon",
+      title: "Data Science Bootcamp - Graded Datathon",
       img: CardImg4,
       button: "upcoming",
-      status: "Starts In",
+      status: "Starts in",
       time: "00 : 15 :22 ",
       timingName: "days hours mins",
       style : {
@@ -27,10 +27,10 @@ function ReactCards() {
       }
     },
     {
-      title: "DataSpint 72 Butterfly-identification",
+      title: "Data Sprint 72 - Butterfly Identification",
       img: CardImg2,
       button: "upcoming",
-      status: "Starts In",
+      status: "Starts in",
       time: "00 : 12 :34 ",
       timingName: "days hours mins",
       style : {
@@ -38,10 +38,10 @@ function ReactCards() {
       }
     },
     {
-      title: "DataSpint 71 Wheather-Recognition",
+      title: "Data Sprint 71 - Weather Recognition",
       img: CardImg3,
       button: "Active",
-      status: "Ends In",
+      status: "Ends in",
       time: "01 : 17 :10 ",
       timingName: "days hours mins",
       style : {
@@ -49,10 +49,10 @@ function ReactCards() {
       }
     },
     {
-      title: "DataSpint 70 Airline Passenger",
+      title: "Data Sprint 70-Airline Passenger Satisfaction",
       img: CardImg5,
       button: "Active",
-      status: "Ends In",
+      status: "Ends in",
       time: "00 : 17 :27 ",
       timingName: "days hours mins",
       style : {
@@ -60,7 +60,7 @@ function ReactCards() {
       }
     },
     {
-      title: "Engeneering Graduattes Employment Outcomes",
+      title: "Engineering Graduates Employment Outcomes",
       img: CardImg6,
       button: "past",
       status: "Ended On",
@@ -70,7 +70,7 @@ function ReactCards() {
       }
     },
     {
-      title: "Travel Insurance Claim Prediction  Outcomes",
+      title: "Travel Insurance Claim Prediction",
       img: CardImg1,
       button: "past",
       status: "Ended On",

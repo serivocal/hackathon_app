@@ -24,7 +24,7 @@ const Intro = () => {
             </div>
             <div className="mt-5">
               <p className="h6">
-              AI Challenges at DPhi simulate real-world problems. It is a 
+              AI Challenges at HYTEK simulate real-world problems. It is a 
               great place to put your AI/Data Science skills to test on 
               diverse datasets allowing you to foster learning through 
               competitions.

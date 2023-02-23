@@ -24,32 +24,17 @@ AI Challenges ?, Explore Challenges.
 - AI Challenges at HYTEK simulate real-world problems. It is a great place to put your AI/Data Science skills to test on diverse datasets allowing you to foster learning through competitions.
 - Included the feedback Survey form to increase the scope of improvement 
 
-## Screenshots
+## Accelerate Innovation with Global AI Challenges
 
-![Screenshot 2022-11-04 182924]()
-
-
-
-   
-
-### About Us -
-
-![Screenshot 2022-11-04 183004](https://user-images.githubusercontent.com/116783215/199978451-249d342c-aded-43d9-ad88-defbe17fa333.png)
-
-### Services -
-![Screenshot 2022-11-04 183058](https://user-images.githubusercontent.com/116783215/199978652-153b68b4-d90b-4f2b-b6bb-7edd3eb798bd.png)
+![Screenshot 2022-11-04 182924](https://github.com/serivocal/hytek/blob/master/screenshots/Screenshot%202023-02-23%20153735.png)
 
 
-### Contact us -
-![Screenshot 2022-11-04 183155](https://user-images.githubusercontent.com/116783215/199978830-e41fbaa9-9c16-465f-a202-33c2ac4932d9.png)
+### Why Participate in AI Challenges ? -
 
+![Screenshot 2022-11-04 183004](https://github.com/serivocal/hytek/blob/master/screenshots/Screenshot%202023-02-23%20160510.png)
 
-### health bot
-
-
-
-![Screenshot 2022-11-04 182119](https://user-images.githubusercontent.com/116783215/199978144-67d6cf3e-397d-477c-aa8a-dd6d26a4dddd.png)
-
+### Explore Challenges -
+![Screenshot 2022-11-04 183058](https://github.com/serivocal/hytek/blob/master/screenshots/Screenshot%202023-02-23%20160555.png)
 
 
 ## Tech Stack 💻

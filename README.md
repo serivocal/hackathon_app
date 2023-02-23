@@ -1,70 +1,62 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# ✨  HYTEK ✨
 
-## Available Scripts
+This is a web based application developed for health related based website in india
 
-In the project directory, you can run:
+### This web based Education app has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+**Project Link** - https://green-rock-0f150ad00.2.azurestaticapps.net/
+**project demo video link** - https://youtu.be/ONF2TFodx0Y
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+## Azure technologies used for Project
 
-### `npm test`
+- Static web apps
+- web
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+## Features and Functionalities 😃
 
-### `npm run build`
+- Interactive and responsive UI.
+- Has many graphical and visual innovative effects.
+- Have an aesthetically pleasing visual design and architecture.
+- Has collection of many web pages including Accelerate Innovation with Global AI Challenges, Why Participate in
+AI Challenges ?, Explore Challenges.
+- AI Challenges at HYTEK simulate real-world problems. It is a great place to put your AI/Data Science skills to test on diverse datasets allowing you to foster learning through competitions.
+- Included the feedback Survey form to increase the scope of improvement 
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Screenshots
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![Screenshot 2022-11-04 182924]()
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+   
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### About Us -
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+![Screenshot 2022-11-04 183004](https://user-images.githubusercontent.com/116783215/199978451-249d342c-aded-43d9-ad88-defbe17fa333.png)
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+### Services -
+![Screenshot 2022-11-04 183058](https://user-images.githubusercontent.com/116783215/199978652-153b68b4-d90b-4f2b-b6bb-7edd3eb798bd.png)
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+### Contact us -
+![Screenshot 2022-11-04 183155](https://user-images.githubusercontent.com/116783215/199978830-e41fbaa9-9c16-465f-a202-33c2ac4932d9.png)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+### health bot
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+![Screenshot 2022-11-04 182119](https://user-images.githubusercontent.com/116783215/199978144-67d6cf3e-397d-477c-aa8a-dd6d26a4dddd.png)
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-### Advanced Configuration
+## Tech Stack 💻
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- [Azure(Hosting)](https://azure.microsoft.com/en-in/features/azure-portal/)
+- HTML
+- CSS
+- Bootstrap
+- JavaScript
+- Json

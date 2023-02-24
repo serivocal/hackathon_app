@@ -8,7 +8,7 @@ This is a web based application developed for education related based website in
 
 **Project Link** - https://green-rock-0f150ad00.2.azurestaticapps.net/
 
-**project demo video link** - https://youtu.be/ONF2TFodx0Y
+**project demo video link** - https://youtu.be/VuEwd6Aj8GQ
 
 ## Azure technologies used for Project
 

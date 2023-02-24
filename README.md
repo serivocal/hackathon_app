@@ -1,7 +1,7 @@
 
 # ✨  HYTEK ✨
 
-This is a web based application developed for education related based website in india
+This is a web based application developed for education related technologies and is based in India.
 
 ### This web based Education app has been developed for the accomplishment of Future Ready Talent Internship program launched by Microsoft, Future Skills Prime, Quess, Github and EY.
 
